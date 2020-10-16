@@ -1,0 +1,3 @@
+[43-lab-bi-analysis-with-tableau]
+
+https://public.tableau.com/profile/anna6160#!/vizhome/LabIntrotobiandtableauChurn/CHURN
